@@ -10,7 +10,7 @@
                 |                           |
                 |                           |
     +-----------v---------+                 |
-    |   Application Layer |<----------------|
+    |   Application Layer |<----------------+
     |---------------------|    
     | - Service Classes   |   
     | - Use Cases         |   
